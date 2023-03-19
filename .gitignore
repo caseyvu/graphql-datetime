@@ -1,0 +1,11 @@
+# Mode modules
+/node_modules
+
+# Compiled JS files
+/dist
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
