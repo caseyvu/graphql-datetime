@@ -1,11 +1,16 @@
 {
-  "name": "graphql-datetime",
-  "version": "1.0.0",
+  "name": "@caseyvu/graphql-datetime",
+  "version": "0.0.1",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caseyvu/graphql-datetime.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "echo \"Test: TODO\" && exit 0"
   },
   "keywords": [],
   "author": "",
